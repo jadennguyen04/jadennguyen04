@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Jaden 👋</h1>
 <h3 align="center">A passionate full stack developer from Brisbane, Australia</h3>
 
-- 🔭 I’m currently working on [PortfolioWebsite](https://github.com/jadennguyen04/PortfolioWebsite)
+- 🔭 I’m currently working on a [Discord Bot](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
